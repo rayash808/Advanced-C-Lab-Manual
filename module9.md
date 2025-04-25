@@ -69,6 +69,7 @@ Output:
 
 
 Result:
+
 Thus, the program to push the given element in to a stack using array is verified successfully
 
 
@@ -197,4 +198,5 @@ Output:
 
 
 Result:
+
 Thus, the function that deletes an element from a queue implemented using an array is verified successfully.
