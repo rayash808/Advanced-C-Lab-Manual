@@ -252,7 +252,8 @@ void delete()
 
 Output:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/6ac7446f-325d-4cc2-8aa2-bbb52b626fa9)
+
 
 
 
