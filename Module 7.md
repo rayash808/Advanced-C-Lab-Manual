@@ -86,6 +86,7 @@ return n.a+n.b;
 ```
 
 Output:
+
 ![Screenshot 2025-04-25 102229](https://github.com/user-attachments/assets/c4fda8ea-7b67-47c2-9123-dfdae6e283a6)
 
 
