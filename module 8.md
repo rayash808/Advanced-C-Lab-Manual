@@ -256,6 +256,7 @@ Output:
 
 
 Result:
+
 Thus, the program is verified successfully
 
 EXP NO:10 C PROGRAM TO FIND A SQUARE  OF NUMBER USING FUNCTION WITHOUT ARGUMENTS WITH RETURN TYPE
@@ -309,6 +310,7 @@ Output:
 
 
 Result:
+
 Thus, the program is verified successfully
 
 
